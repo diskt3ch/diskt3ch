@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diskt3ch
-- 🌱 Python and PowerAutomate
-- 📫 How to reach me ...
+- 🌱 Code repo
+
 
 <!---
 diskt3ch/diskt3ch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
