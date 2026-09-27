@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @diskt3ch
-- 🌱 Code repo
+- 
 
 
 <!---
